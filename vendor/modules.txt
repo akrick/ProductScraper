@@ -1,0 +1,138 @@
+# github.com/PuerkitoBio/goquery v1.5.0
+github.com/PuerkitoBio/goquery
+# github.com/VividCortex/gohistogram v1.0.0
+github.com/VividCortex/gohistogram
+# github.com/andybalholm/cascadia v1.0.0
+github.com/andybalholm/cascadia
+# github.com/beorn7/perks v1.0.0
+github.com/beorn7/perks/quantile
+# github.com/chromedp/cdproto v0.0.0-20191114225735-6626966fbae4
+github.com/chromedp/cdproto
+github.com/chromedp/cdproto/accessibility
+github.com/chromedp/cdproto/animation
+github.com/chromedp/cdproto/applicationcache
+github.com/chromedp/cdproto/audits
+github.com/chromedp/cdproto/backgroundservice
+github.com/chromedp/cdproto/browser
+github.com/chromedp/cdproto/cachestorage
+github.com/chromedp/cdproto/cast
+github.com/chromedp/cdproto/cdp
+github.com/chromedp/cdproto/css
+github.com/chromedp/cdproto/database
+github.com/chromedp/cdproto/debugger
+github.com/chromedp/cdproto/deviceorientation
+github.com/chromedp/cdproto/dom
+github.com/chromedp/cdproto/domdebugger
+github.com/chromedp/cdproto/domsnapshot
+github.com/chromedp/cdproto/domstorage
+github.com/chromedp/cdproto/emulation
+github.com/chromedp/cdproto/fetch
+github.com/chromedp/cdproto/headlessexperimental
+github.com/chromedp/cdproto/heapprofiler
+github.com/chromedp/cdproto/indexeddb
+github.com/chromedp/cdproto/input
+github.com/chromedp/cdproto/inspector
+github.com/chromedp/cdproto/io
+github.com/chromedp/cdproto/layertree
+github.com/chromedp/cdproto/log
+github.com/chromedp/cdproto/media
+github.com/chromedp/cdproto/memory
+github.com/chromedp/cdproto/network
+github.com/chromedp/cdproto/overlay
+github.com/chromedp/cdproto/page
+github.com/chromedp/cdproto/performance
+github.com/chromedp/cdproto/profiler
+github.com/chromedp/cdproto/runtime
+github.com/chromedp/cdproto/security
+github.com/chromedp/cdproto/serviceworker
+github.com/chromedp/cdproto/storage
+github.com/chromedp/cdproto/systeminfo
+github.com/chromedp/cdproto/target
+github.com/chromedp/cdproto/tethering
+github.com/chromedp/cdproto/tracing
+github.com/chromedp/cdproto/webaudio
+github.com/chromedp/cdproto/webauthn
+# github.com/chromedp/chromedp v0.5.2-0.20191114231622-97580065bae3
+github.com/chromedp/chromedp
+github.com/chromedp/chromedp/device
+github.com/chromedp/chromedp/kb
+# github.com/geziyor/geziyor v0.0.0-20191212210344-cfb16fe1ee0e
+## explicit
+github.com/geziyor/geziyor
+github.com/geziyor/geziyor/cache
+github.com/geziyor/geziyor/cache/memorycache
+github.com/geziyor/geziyor/client
+github.com/geziyor/geziyor/export
+github.com/geziyor/geziyor/internal
+github.com/geziyor/geziyor/metrics
+github.com/geziyor/geziyor/middleware
+# github.com/go-kit/kit v0.8.0
+github.com/go-kit/kit/metrics
+github.com/go-kit/kit/metrics/discard
+github.com/go-kit/kit/metrics/expvar
+github.com/go-kit/kit/metrics/generic
+github.com/go-kit/kit/metrics/internal/lv
+github.com/go-kit/kit/metrics/prometheus
+# github.com/gobwas/httphead v0.0.0-20180130184737-2c6c146eadee
+github.com/gobwas/httphead
+# github.com/gobwas/pool v0.2.0
+github.com/gobwas/pool
+github.com/gobwas/pool/internal/pmath
+github.com/gobwas/pool/pbufio
+github.com/gobwas/pool/pbytes
+# github.com/gobwas/ws v1.0.2
+github.com/gobwas/ws
+github.com/gobwas/ws/wsutil
+# github.com/golang/protobuf v1.3.1
+github.com/golang/protobuf/proto
+# github.com/knq/sysutil v0.0.0-20191005231841-15668db23d08
+github.com/knq/sysutil
+# github.com/mailru/easyjson v0.7.0
+github.com/mailru/easyjson
+github.com/mailru/easyjson/buffer
+github.com/mailru/easyjson/jlexer
+github.com/mailru/easyjson/jwriter
+# github.com/matttproud/golang_protobuf_extensions v1.0.1
+github.com/matttproud/golang_protobuf_extensions/pbutil
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
+# github.com/prometheus/client_golang v1.0.0
+github.com/prometheus/client_golang/prometheus
+github.com/prometheus/client_golang/prometheus/internal
+github.com/prometheus/client_golang/prometheus/promhttp
+# github.com/prometheus/client_model v0.0.0-20190129233127-fd36f4220a90
+github.com/prometheus/client_model/go
+# github.com/prometheus/common v0.4.1
+github.com/prometheus/common/expfmt
+github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg
+github.com/prometheus/common/model
+# github.com/prometheus/procfs v0.0.2
+github.com/prometheus/procfs
+github.com/prometheus/procfs/internal/fs
+# github.com/temoto/robotstxt v1.1.1
+github.com/temoto/robotstxt
+# golang.org/x/net v0.0.0-20190522155817-f3200d17e092
+golang.org/x/net/html
+golang.org/x/net/html/atom
+golang.org/x/net/html/charset
+# golang.org/x/sys v0.0.0-20191113165036-4c7a9d0fe056
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/text v0.3.2
+golang.org/x/text/encoding
+golang.org/x/text/encoding/charmap
+golang.org/x/text/encoding/htmlindex
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/japanese
+golang.org/x/text/encoding/korean
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/encoding/traditionalchinese
+golang.org/x/text/encoding/unicode
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/internal/utf8internal
+golang.org/x/text/language
+golang.org/x/text/runes
+golang.org/x/text/transform
